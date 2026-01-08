@@ -1,10 +1,18 @@
 # TOOLSDARKV5
 
 Repository ini berisi koleksi alat dan skrip untuk Termux.
+di bagi dengan beberapa fitur
+
+1 CRAK FB,IG,EMAIL,DLL
+2 DDOS
+3 OSINT 😹
+dan masih banyak lagi
 
 ## Screenshot
 
 ![Screenshot Termux](Screenshot_20260105_173009.jpg)
+![Screenshot Termux](Screenshot_20260105_173017.jpg)
+
 
 ## Instalasi
 

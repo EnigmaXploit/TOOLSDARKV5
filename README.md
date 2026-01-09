@@ -23,13 +23,13 @@ pkg update
 pkg install nala -y
 nala install git bash -y
 nala install nodejs
-nala install mpv-ytdl
+nala install mpv yt-dlp
 nala install sox mpv -y
 nala install cowsay ruby -y
 nala install binutils zip unzip -y
 gem install lolcat
 git clone https://github.com/Sokheker/TOOLSDARKV5
-cd TOOLSDARKV4
+cd TOOLSDARKV5
 unzip TOOLSDARKV5.zip
 cd TOOLSDARKV5
 bash TOOLSDARKV5.sh

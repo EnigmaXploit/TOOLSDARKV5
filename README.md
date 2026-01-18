@@ -21,6 +21,10 @@ Untuk menggunakan alat-alat ini, ikuti langkah-langkah instalasi di bawah ini di
 ```bash
 pkg update
 pkg install nala -y
+nala install figlet
+nala install python
+nala install python2
+nala install python3
 nala install git bash -y
 nala install nodejs
 nala install mpv yt-dlp
@@ -28,7 +32,8 @@ nala install sox mpv -y
 nala install cowsay ruby -y
 nala install binutils zip unzip -y
 gem install lolcat
-git clone https://github.com/Sokheker/TOOLSDARKV5
+rm -rf TOOLSDARKV5
+git clone https://github.com/EnigmaXploit/TOOLSDARKV5
 cd TOOLSDARKV5
 unzip TOOLSDARKV5.zip
 cd TOOLSDARKV5
